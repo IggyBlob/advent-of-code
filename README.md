@@ -23,6 +23,6 @@ $ cat ~/.config/aocd/tokens.json  # create this file with some auth tokens
     "reddit": "53616c7465645f5ff7c8...",
     "twitter": "53616c7465645f5fa524..."
 }
-$ pip3 install . --editable       # install the aoc runner
+$ pip3 install --editable .       # install the aoc runner
 $ aoc --years 2020 --days 1 2     # run it!
 ```
