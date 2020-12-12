@@ -17,6 +17,7 @@ Solutions for the [AoC 2020](https://adventofcode.com/2020) puzzles, written in 
 | 9   | �  [Encoding Error](https://adventofcode.com/2020/day/9)      | **[day9.py](solutions/aoc2020/day9.py)**   ⭐⭐ |
 | 10  | 🔌 [Adapter Array](https://adventofcode.com/2020/day/10)      | **[day10.py](solutions/aoc2020/day10.py)** ⭐⭐ |
 | 11  | 🪑 [Seating System](https://adventofcode.com/2020/day/11)     | **[day11.py](solutions/aoc2020/day11.py)** ⭐⭐ |
+| 11  | ⛈ [Rain Risk](https://adventofcode.com/2020/day/12)          |**[day12.py](solutions/aoc2020/day12.py)** ⭐⭐ |
 
 
 ## Batch running
